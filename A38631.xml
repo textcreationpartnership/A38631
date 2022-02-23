@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to a further discovery of terra firma: or A proposal to a more firm ascertaining of title in lands</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38631</idno>
+            <idno type="STC">Wing E3291A</idno>
+            <idno type="STC">ESTC R218677</idno>
+            <idno type="EEBO-CITATION">99830249</idno>
+            <idno type="PROQUEST">99830249</idno>
+            <idno type="VID">34699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2071:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to a further discovery of terra firma: or A proposal to a more firm ascertaining of title in lands</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land titles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34699:1"/>
+            <p>AN ESSAY To a further DISCOVERY OF Terra Firma: OR A PROPOSAL TO A more firm <hi>Aſcertaining</hi> of Title in Lands.</p>
+            <q>
+               <bibl>
+                  <hi>Hor.</hi> Epiſt. 2. Lib. 1.</bibl>
+               <p>Certum voto pete Finem.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:34699:2"/>
+            <head>AN ESSAY To a further DISCOVERY OF Terra Firma.</head>
+            <p>LAnd, that in it ſelf (unleſs by an Earth<g ref="char:EOLhyphen"/>quake) is immoveable, yet is now adays be<g ref="char:EOLhyphen"/>come the moſt uncertain and unſteadieſt Poſſeſſion that is. And 'tis ſtrange to con<g ref="char:EOLhyphen"/>ſider, that what is alwayes to be found in <hi>Eodem loco,</hi> in the very ſame place, yet men are afraid to venture thorow, leaſt they loſe what they ſeem to get; and dare rather call Money, Plate, Jewels, and other Movables their own, (as having them,
+<pb n="2" facs="tcp:34699:3"/>
+as it were, in a Manual Poſſeſſion) then that other, notwithſtanding that theſe are ſubject to many Ca<g ref="char:EOLhyphen"/>ſualties as the Poet very well obſerves;
+<q>
+                  <bibl>
+                     <hi>Horat.</hi> Serm. <hi>1.</hi>
+                  </bibl>
+                  <l>—Nocteſque dieſque</l>
+                  <l>Formidare malos ſures, incendio, ſervos,</l>
+                  <l>Ne te compilent fugientes—</l>
+               </q>
+Which with a very little Periphraſis may be Eng<g ref="char:EOLhyphen"/>liſhed thus,
+<q>
+                  <l>We Theeves and Burnings Night and Day may fear,</l>
+                  <l>And Servants Fugitive away may bear</l>
+               </q>
+What we do get, and keep with ſo much care, They are ſubject (you ſee) to ſeveral accidents: And Land but to one, <hi>vizt.</hi> a bad Title, which indeed is of ſo much conſideration, That Report tells us, My Lord <hi>Cook,</hi> (an upright man, that never gave his Hand to Corruption, as he was wont to ſay<note n="*" place="margin">Ful.</note> of himſelf) a Friend of his requeſting him, to conveigh him a good and ſure Title, Replyed, I can<g ref="char:EOLhyphen"/>not, unleſs you deal with an honeſt man: <hi>Caveat ergo Emptor,</hi> beware Buyer.</p>
+            <p>Two wayes there be, whereby we indeavour to ſecure our Selves: Firſt, For the Seller or Mor<g ref="char:EOLhyphen"/>gager to take an Oath before a Maſter in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hancery,</hi> That he knows of no Incumbrance, &amp;c. and this is good, where there is a good Conſcience: But you know who it is that ſays, Wiſe and Wary, men are to be deceived with Oaths. I think I need not be particular, how men are ſerved in this
+<pb n="3" facs="tcp:34699:3"/>
+kind, the whole Kingdom knows it too well: And if neceſſity urged, I could nominate a <hi>Kentiſh</hi> Gentleman, that was thus wiped of 500 l. and that by one who much deſired not only to ſeem moral and honeſt, but <hi>(oh horrendum!)</hi> very Religi<g ref="char:EOLhyphen"/>ous.</p>
+            <p>A ſecond way is to Enrowl, and that is good indeed, and yet may prove but a <hi>Sapientia Phrigia,</hi> a too late diſcretion; for if another have done the ſame before, I ſuppoſe one latter cautious perſon ſhuts the Stable door when the Steed is ſtollen.</p>
+            <p>How advantagious would it be, if a ſure courſe were taken to prevent theſe Frauds, that ſo good Title to what is bought, good Security to what is lent, might be made.</p>
+            <p>It may be Objected, That ſearch may be made into the Courts, where Inrowlments are uſually Regiſtred, from thence to be Reſolved; But to this, give me leave a little to Reply, a man is 60 years of age, and entred on his Eſtate of Land at 21, he proffers me to ſell or Morgage, I am perhaps afraid that he eſteems <hi>Jupiters</hi> Stone (an Oath) no more then the dirt or ſtones under his Feet; If I will then ſearch exactly, I have 39 years to go thorough, and that in ſeveral Courts. The ſearch here is long, and there will intervene many thou<g ref="char:EOLhyphen"/>ſand Records to incumber the Searcher, who be<g ref="char:EOLhyphen"/>ing perhaps but a Second, and a Subſtitute, may therefore do it but ſuperficially: No man doth ones buſineſs like ones ſelf; but buſineſs may hin<g ref="char:EOLhyphen"/>der a man, that happily, he cannot in perſon travail to <hi>London;</hi> or if he doth, he knows not well to
+<pb n="4" facs="tcp:34699:4"/>
+perform it, and ſo muſt rely on others, who con<g ref="char:EOLhyphen"/>cerned no further therein then their Guerdon, may with the tediouſneſs thereof become weary, and ſo not ſo wary as they ought indeed to be. Many times (and ofteneſt Lands are engaged, and no inrowlment thereof made; this may be carried as ſecret, and unknown from the World, as are the Founder and Sanctions of the Roſy-Crucians, then is my courſe (I confeſſe) to inrowl, good; but in the <hi>interim,</hi> here is a large <hi>Ambitus,</hi> a Jour<g ref="char:EOLhyphen"/>ney a great way about, and I may ſay, much ſearch in vain, ſeeking that which is not to be found, never any Inrolment made. It is true, I aſcertain my ſelf of what I doubt of; but if this Purchaſe or Morgage be inconſiderable, the Searches and Enrowlments may enhaunſe it to a 25 years Purchaſe.</p>
+            <p>Therefore as in time of <hi>H.</hi> 44. 8. it was by Par<g ref="char:EOLhyphen"/>liament Enacted, That Chriſtenings, Marriages, and Burials ſhould in every Pariſh be Regiſtred, in a Book for that purpoſe kept, to the end, that no man ſhould be put by his Right, but ſhould there<g ref="char:EOLhyphen"/>by know his age, be able to prove his lawful De<g ref="char:EOLhyphen"/>ſcent, and deceaſe of his Friends, &amp;c. It is con<g ref="char:EOLhyphen"/>ceived, That a Book in like manner to be kept in every Pariſh, Signed and Atteſted by the Miniſter thereof, (who is, or ought to be, an honeſt, pious, and underſtanding perſon) and the Church-war<g ref="char:EOLhyphen"/>dens, or rather (in ſtead of the laſt named, becauſe they are oftentimes very plain and ignorant, and ſo of leſs validity) the two neareſt Juſtices of the Peace, mentioning what Lands, how much, of what
+<pb n="5" facs="tcp:34699:4"/>
+quality, whither Arable, Paſture, or Meadow, Marſh, Wood-land, &amp;c. is Morgaged or Sold, by ſuch a man to ſuch a man, together with the time and ſum for what might be very convenient in this kind, whereby inſpection and ſearch might eaſily be made. And indeed, where ſhould a man look for, and enquire for a thing, but where it is: <hi>Scaliger</hi> tells us, <hi>Rerum ipſarum cognitio vera è rebus ipſis eſt.</hi> Now as the Regiſter in Churches (particularly of Burials) directs one to enquire to Wills, and their Probates, and to Letters of Admi<g ref="char:EOLhyphen"/>niſtration (there being to theſe a time limited); ſo putting all into a moſt direct path, to find out the right of an Eſtate; even ſo would this Regiſter direct to a ſure and good Title.</p>
+            <p>Neither would this at all be prejudicial to the inrowlments of the higher Courts above (for as I ſaid before, that moſt frequently, at this day, (of moſt Deeds) no Inrowlments are made at all), but it ſhould be as an Index to them, here being onely the Heads and Contents, there in the Courts above the whole matter. <hi>Johannes</hi>
+               <note n="*" place="margin">Ful.</note> 
+               <hi>de Boston,</hi> a Monk of <hi>Bury</hi> travailed all <hi>England</hi> exactly, ſuper<g ref="char:EOLhyphen"/>viſing the Libraries in all Religious Houſes, and Wrote a Catalogue of all the Eccleſiaſtical Wri<g ref="char:EOLhyphen"/>ters, as well as Forraign, as Domeſtical and Na<g ref="char:EOLhyphen"/>tive therein to be found; and ſuch his accurate<g ref="char:EOLhyphen"/>neſs in his ſaid Catalogue, as not only to tell the inchoative or firſt word in very Book, but to point at, and declare, in what places of the ſaid Libra<g ref="char:EOLhyphen"/>ries the ſaid Books ſtood: And truly ſuch Paro<g ref="char:EOLhyphen"/>chiall Regiſtring might be an Index to the Upper
+<pb n="6" facs="tcp:34699:5"/>
+Courts, as <hi>Johannes de Boston</hi>'s Schedule or Cata<g ref="char:EOLhyphen"/>logue was to the ſaid Libraries.</p>
+            <p>Another thing I might propoſe as praevious to this, and ſeems (to me) to be able yet further to aſcertain and aſſure: It is a Cuſtom as I have obſer<g ref="char:EOLhyphen"/>ved in <hi>Suſſex</hi> and <hi>Kent,</hi> when Scotts (as they tearm them) or Water-Taxes are to be Levied, to pro<g ref="char:EOLhyphen"/>claim them three ſeveral Sundayes, openly in ſeve<g ref="char:EOLhyphen"/>ral Churches, abutting the Marſhes; ſo to give Notice to all concerned, to provide for the ſaid Payments. And truly, I know not why any ho<g ref="char:EOLhyphen"/>neſt man ſhould be loath or aſhamed to have it known, That he hath occaſion to either ingage or ſell Lands, for it ſeems (to me) all the harm he doth himſelf, is to proclaim himſelf a juſt fair and ſquare dealing perſon, and ſo invites People the more to adventure to deal with him.</p>
+            <p>I am ſure of late, two Great and Honourable Peers, the Earl of <hi>Huntington,</hi> and the Earl of <hi>Carlile,</hi> were ſo upright, that their Eſtates being intailed by Act of Parliament, (the firſt no doubt requiring it in his Will, and therefore his relict Lady, and his worthy Brother, the Right Hono<g ref="char:EOLhyphen"/>rable Baron of <hi>Loughborough,</hi> (one, who as a late Writer ſays, By his Vertues adds to the Dignity of his Extraction) both indeavouring it: The other him<g ref="char:EOLhyphen"/>ſelf then alive,) procured a like Act, to have power to ſell part of their Eſtates to pay their Debts. And if theſe Great Parſonages, Peers of the Land, were ſo upright and open in their Dealings, and no ways aſhamed to have their Condition laid open to the Repreſentative of the whole Nation, the Parlia<g ref="char:EOLhyphen"/>ment; nay, nor were not (I dare ſay) grieved,
+<pb n="7" facs="tcp:34699:5"/>
+when theſe things were inſerted in the News Books; why ſhould forſooth then frivolous and inferiour perſons be ſo extreamly tender of their Reputation? Let them Morgage or Sell never ſo often, at length ſome Body will take place and right, and then 'tis known; nay, and worſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, them<g ref="char:EOLhyphen"/>ſelves known for Knaves. If they pretend it will diſcover their Eſtates and Conditions, I think I anſwer ſatisfactorily to that thus, Whilſt things remain thus occult and obſcure, we equally may doubt and fear all men, the upright man as well as the Knave, he that never morgaged nor ingaged, as well as him that hath: If ſo, then this hinders no particular mans Reputation; the truth is, (our Eyes daily ſee it) we dare not confide or truſt one in another, without two or three Co-obligees, re<g ref="char:EOLhyphen"/>fuſing Land ſecurity for perſonal; and were this way taken, a mans own Eſtate might be his Secu<g ref="char:EOLhyphen"/>rity, without troubling others. And indeed Mr. <hi>Hartlib</hi> (in his Legacy) treating about his bank of Lands, hints this Self ſecurity; How ere I am ſure his ſaid Bank (which were an excellent thing) could not ſtand without this propoſed way (or the like) of mine.</p>
+            <p>As the many inconveniencies before the time of King H. 8. procured the fore-recited Act; So, Oh would the many Frauds, the Perjuries in this kind, the fraudulent Conveyances, the double and treble Morgagings, that are and yet may be committed, might cauſe an Act for the future pre<g ref="char:EOLhyphen"/>vention of them.</p>
+            <p>
+               <pb n="8" facs="tcp:34699:6"/>One, ſomewhat more paſſionately then religi<g ref="char:EOLhyphen"/>ouſly ſayes, <hi>That he thinks Knavery and Cheating the greateſt Sin that was; if we ſin against God</hi> (ſaith he) <hi>we can do him no harm; if we Sin against Him and our Selves only, (as in ſome ſort of ſins) we hurt not our Neighbours; but the Knave hurts all men:</hi> Other harms may be foreſeen, but this of Knavery is uſhered in by a dark Lanthorn; One ſayes,
+<q>
+                  <lg>
+                     <l>Fur curſu fugitur, vel vi fortaſse fugatur;</l>
+                     <l>Qui fugeris nebulo laqueum poſiturus in omnes.</l>
+                  </lg>
+                  <lg>
+                     <l>One ſcapes a Thief by flight, or elſe by force;</l>
+                     <l>But to prevent a Knave (I pray) what courſe.</l>
+                  </lg>
+               </q>
+And yet this Knave ſhall ſcape better, notwith<g ref="char:EOLhyphen"/>ſtanding the great wrong that he doth, then the poor Thief that ſteals for his Belly: The French Poet could many a year agoe complain of this, ſayes he,
+<q>
+                  <lg>
+                     <l>Le larron d'un eſcu, eſt pendu par Matheur,</l>
+                     <l>Le larron de dix mille est appelle Mounſieur.</l>
+                  </lg>
+                  <lg>
+                     <l>The poor unlucky Thief that ſteals a Crown</l>
+                     <l>Is hanged up, but he lives in Renown</l>
+                     <l>That by worſe means hath ſwallowed thouſands down.</l>
+                  </lg>
+               </q>
+The High-way-man, and the Pyrat at Sea, bereaves a man only of his preſent Carriage; nay, in the latter I have obſerved a kind of Generoſity; theſe, although they have mer with Blows, yet give good
+<pb n="9" facs="tcp:34699:6"/>
+entertainments and welcome, and oftentimes make a ſmall Reſtitution as towards preſent neceſſity. But this Deceivour (of whom I ſpeak) brings us into a worſe Condition; for when he hath undone us, yet hath not he done with us, we being after<g ref="char:EOLhyphen"/>wards plunged into chargable and vexatious Suits, and he eſteems it a kind of injury that we ſet not down contented with our wrong, but put him (as he thinks, and calls it) to a trouble. It is a hard caſe, that when by honeſt Induſtry a man ſhall have got a ſum of Money together, and is willing to lay it out (ſuppoſe) for a Houſe to lay his head in, (ſuch a one as he may call his own) or to buy Lands, thinking them more ſecure then his Caſh, he ſhould be eluded and deceived by a Knave, and Himſelf, Wife and Children undone, and ſuch a Miſcreant as did this, ſecure himſelf in Priſon with the Money.</p>
+            <p>It is a good way of Juſtice they have in <hi>France,</hi> if any make a fraudulent Break, if taken, they are hanged for it, if not taken, their Effigies is ſo ſerved; and me-thinks there is much equity in it, ſuch a one being a Grand Thief trading by whole<g ref="char:EOLhyphen"/>ſale, and thoſe that Robb by the High-way, and break up Houſes, being but Pettifoggers and Re<g ref="char:EOLhyphen"/>taylers.</p>
+            <p>But to return, there is in Lands a kind of Excel<g ref="char:EOLhyphen"/>lency above other Poſſeſſions, not only as I hinted before in the natural and proper ſtability thereof, but alſo in eſteem and reputation. It was and is the Guerdon of Gracious Princes to deſerving Sub<g ref="char:EOLhyphen"/>jects: Thus the Conquerour rewarded his Follow<g ref="char:EOLhyphen"/>ers,
+<pb n="10" facs="tcp:34699:7"/>
+but (in particular) thus the Anceſtors of the Lord <hi>Eury</hi> were rewarded with Lands in <hi>Scotland,</hi> Subject to <hi>Edw.</hi> 1. Thus Sir <hi>John Copeland,</hi> that took <hi>David le Bruſe,</hi>
+               <note place="margin">Stow.</note> King of <hi>Scotland,</hi> was rewarded by <hi>Edw.</hi> 3. with 500 l. <hi>per annum,</hi> and thus the Lord <hi>Audley</hi> by the Black Prince; nay, 'tis alſo Guerdon of Piety and Service towards God (and of Temporal Rewards is moſt eſpecially mentio<g ref="char:EOLhyphen"/>ned in Holy Writ); Thus was <hi>Abraham</hi> aſſured (ſeveral times) of the Land of Promiſe, and the <hi>Pſalmist, Pſal.</hi> 37. <hi>verſ.</hi> 9, 11, 22, 29, 34. So of<g ref="char:EOLhyphen"/>ten repeats it to the ſame effect: To whom alſo alludes our Saviour himſelf, in his Sermon upon the Mount, <hi>Matth.</hi> 5. <hi>&amp;</hi> 5. And that this that is ſo dignified and ennobled, ſhould lye open to the miſuſe and abuſe of every baſe ſpirited perſon, ſeems great pity, and that there is not a reſtraint to them. A ſure caution to it, ſo that whats in it ſelf (to thoſe that have it) ſo great a Temporal Bleſſing of God, might not by crafy unconſciona<g ref="char:EOLhyphen"/>ble People be made a Snare and a Curſe.</p>
+            <p>And truly in the Wiſh of this, I think all ſorts, qualities, and conditions of Men are concerned: Firſt, Noble men; and truly though there be a great Awe and Reſpect to be uſed to them, above their Inferiours, as being Peers, and ſo near y re<g ref="char:EOLhyphen"/>lated to their Soveraign, yet now and then they meet with ſuch preſumptuous Ones, as dare de<g ref="char:EOLhyphen"/>ceive them. <hi>Stow, Anno</hi> 13 <hi>Edw.</hi> 2. The Earl of <hi>Hereford</hi> bought of Sir <hi>William Bruce</hi> Knight, a portion of Land in the Marſhes of <hi>Wales,</hi> called <hi>Gowers, Roger Mortimer</hi> the Uncle, and <hi>Roger</hi> the
+<pb n="11" facs="tcp:34699:7"/>
+Nephew, (not knowing of the <hi>foreſaid Bargain</hi>) had alſo bought the ſaid Ground of the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Bruce:</hi> Alſo the Lord <hi>Mowbray,</hi> who had married the Daughter and Heir of the ſaid <hi>Willi<g ref="char:EOLhyphen"/>am,</hi> claiming it by Inheritance of his Wife; laſt of all <hi>Hugh Spencer</hi> the younger had bought that Land, and turned them all out, wherefore the ſaid Nobles were ſore moved, &amp;c. Here it is plain, that by this covert cloſe underhand-dealing, great and wiſe men were over-reach'd: But to return,</p>
+            <p>The Nobility have younger Sons, for whom they uſually purchaſe; This propoſed way (or ſome other) would alſo help them into a more ſe<g ref="char:EOLhyphen"/>cure proceeding in ſuch purchaſe: but however, if it doth not concern the Nobility (becauſe of their Greatneſs, and a better poſſibility they have of ſecuring themſelves) ſo much as it concerns others, yet may they pleaſe to remember, that who deſcend from them (I mean by their younger Sons and Daughters) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay <hi>Succedenti tempore</hi> devolve into but a Parity with the meaner Gentry. I am ſure, in a Forraign Plantation, I know a young Gentleman (eldeſt Son to the eldeſt Daughter, of a moſt great and antient Earl of this Realm) in a ſervile Condition,<note place="margin">E. Linc.</note> but the good nature of his Maſter took him from Field-labour, (preſently af<g ref="char:EOLhyphen"/>ter he was informed who he was) and made him his perſonal Attendant, I ſay then, that it con<g ref="char:EOLhyphen"/>cerns the Nobility remotely, and may be a Caveat to perſons Eminent: whom God and the Princes favour hath raiſed up from mean degree, that they remember that providence can reduce them: And
+<pb n="12" facs="tcp:34699:8"/>
+if it doth not them, yet Sons of theirs, to a Parity with the loweſt; and therefore ſhould when pro<g ref="char:EOLhyphen"/>moted, conſult <hi>Salus Populi,</hi> which ought to be <hi>Su<g ref="char:EOLhyphen"/>prema lex.</hi>
+            </p>
+            <p>The Reverend the Biſhops they are concerned, they are but Tenants for tearm of Life, and ſince the Reformation, being permitted Marriage, they muſt (in their thoughts) reflect on their Iſſue. Neither are they in a Condition of Grandeur, ſo well able to overawe the over-bold preſumption of deceiving Knaves, as the Peerage, being com<g ref="char:EOLhyphen"/>monly deſcended of Lower Origos, and ſo their Off-ſpring being afterwards but ordinary Gentry: A modern Author Obſerves, That of all the Cler<g ref="char:EOLhyphen"/>gy mens Sons of <hi>England,</hi> none mounted above the Degree of Knight-hood, although of <hi>Ireland</hi> had their Sons Peers.</p>
+            <p>As for the Gentry, I need only ſay thus to them; if Lords Spirituall and Temporall be concern'd, much more they, the Reaſons aforeſaid ſerving well, alſo (nay more properly) to their Condition. I come, now to the Merchants and Mariners, <hi>Horace</hi> ſayes, <hi>Epistol.</hi> 1. <hi>Lib.</hi>
+               <q>
+                  <lg>
+                     <l>Impiger Extremos currit Mercator ad Indos,</l>
+                     <l>Per mare pauperiem fugiens, per ſaxa, per ignes.</l>
+                  </lg>
+                  <lg>
+                     <l>The ſedulous Merchant to the Indies hyes,</l>
+                     <l>Nor fears he Seas nor Rocks, nor <hi>Sols</hi> hot fryes,</l>
+                     <l>But under Riſoſque of theſe hard want he flyes.</l>
+                  </lg>
+               </q>
+And to no other end; but as the Poet ſaies elſe<g ref="char:EOLhyphen"/>where;
+<q>
+                  <pb n="13" facs="tcp:34699:8"/>
+                  <lg>
+                     <l>—Senex ut in Otia tuta recedat.<note place="margin">
+                           <hi>Serm.</hi> 1.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>That being old,</l>
+                     <l>He may in quiet eaſe himſelf upfold.</l>
+                  </lg>
+               </q>
+But many times it falls out contrary, that all this Indeavour gets him money but to buy himſelf Vexation during life, which really is great pity, none gaining a Livelihood with greater hazard of Life, Health and Means, then theſe laſt.</p>
+            <p>Laſtly, As to the Commonalty, <hi>Horace</hi> tell us, <q>
+                  <lg>
+                     <l>—Nil ſine Magno,</l>
+                     <l>Vita labore dedit Mortalibus—<note place="margin">
+                           <hi>Satyr.</hi> 9. <hi>Lib.</hi> 1.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>To Mortals frail Nature hath nothing given,</l>
+                     <l>But what they for with Labour great have ſtriven.</l>
+                  </lg>
+               </q>
+This hard Dole of Labour falls eſpecially on the Mechanick and Husbandman, who moſt uſually have nothing whereon to build themſelves, ſave only the ſweat of their Brows. And truly ſuch as God hath left to their Self-indeavour, if honeſt Induſtry hath afforded them beyond then from hand to mouth, (if there be a Curſe upon him that removes his Neighbours Land-Mark (never ſo lit<g ref="char:EOLhyphen"/>tle) and leads the blind out of the way) how much more upon him that defrauds theſe wholly of what they thus honeſtly gain; and being dim-ſighted in theſe things, (unacquainted beyond their Labour and Indeavour) ſhall take an occaſion from thence
+<pb n="14" facs="tcp:34699:9"/>
+to deceive them, leading them into the Woful paths of an utter undoing.</p>
+            <p>And therefore, the Superiours (I have) before mentioned, being not <hi>(ſibi ipſis ſolum nati)</hi> not born meerly for themſelves, will (I hope) take notice of this Concernment alſo, in reſpect of the laſt men<g ref="char:EOLhyphen"/>tioned, as well as themſelves.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34699:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
